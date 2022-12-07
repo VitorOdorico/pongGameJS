@@ -8,8 +8,8 @@ In this project, I developed a very famous application. that marked the childhoo
 
 ## Pong
 ### A little of his history
-> Pong is a table tennis-themed arcade sports game with two-dimensional graphics developed by Atari and originally released in 1972s 
-<img src="../app/PongBackgound.webp">
+> Pong is a table tennis-themed arcade sports game with two-dimensional graphics developed by Atari and originally released in 1972s.
+<img src="./app/PongBackgound.webp">
 
 # Tecnolies used
 
