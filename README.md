@@ -25,3 +25,7 @@ In this project, I developed a very famous application. that marked the childhoo
 [![My Skills](https://skills.thijs.gg/icons?i=vscode,git,github&theme=dark)](https://skills.thijs.gg)
 
 </div>
+
+<h2>Visual Editing</h2>
+
+>  Alura's course decided to continue with Sketch to see the evolutions while the project is implemented
