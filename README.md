@@ -11,5 +11,17 @@ In this project, I developed a very famous application. that marked the childhoo
 > Pong is a table tennis-themed arcade sports game with two-dimensional graphics developed by Atari and originally released in 1972s.
 <img src="./app/PongBackgound.webp">
 
-# Tecnolies used
+<h2> Tecnolies used</h2>
 
+<div style="display: inline_block" align="center"><br>
+
+  [![My Skills](https://skills.thijs.gg/icons?i=html,css,js&theme=dark)](https://skills.thijs.gg)
+  
+</div>
+
+<h2> Ide used</h2>
+<div align=center>
+  
+[![My Skills](https://skills.thijs.gg/icons?i=vscode,git,github&theme=dark)](https://skills.thijs.gg)
+
+</div>
